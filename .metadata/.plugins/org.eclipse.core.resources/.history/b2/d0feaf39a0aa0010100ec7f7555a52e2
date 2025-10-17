@@ -1,0 +1,13 @@
+package hiloAlumnos;
+
+public class Alumno {
+	
+	String mensaje;
+	String nombre;
+	
+	public Alumno(String nombre) {
+		this.nombre = nombre;
+		
+	}
+
+}

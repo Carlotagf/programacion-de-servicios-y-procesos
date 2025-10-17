@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module ejemploConexionBD {
+	requires java.sql;
+}

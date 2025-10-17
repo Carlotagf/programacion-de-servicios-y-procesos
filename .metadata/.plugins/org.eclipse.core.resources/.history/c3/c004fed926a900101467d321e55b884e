@@ -1,0 +1,5 @@
+package ejemploConexionBD;
+
+public class ConexionMySql {
+
+}
